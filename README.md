@@ -15,7 +15,7 @@ This project was created as part of my practical Power BI and Data Analytics lea
 
 ## Dashboard Preview
 
-![Power BI Dashboard](images/dashboard.png)
+![Maven Toys Power BI Dashboard](images/dashboard.png)
 
 ## Key Features
 
@@ -38,6 +38,8 @@ The Power BI model contains four main tables:
 
 The model uses one-to-many relationships between the dimension tables and the sales
 fact table.
+
+## Data Model
 
 ![Power BI Data Model](images/data-model.png)
 
