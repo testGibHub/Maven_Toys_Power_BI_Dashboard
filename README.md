@@ -41,7 +41,7 @@ fact table.
 
 ## Data Model
 
-![Power BI Data Model](images/images_data-model.png)
+![Power BI Data Model](images/images_data_model.png)
 
 ## Data Transformation
 
