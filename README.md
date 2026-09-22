@@ -15,7 +15,7 @@ This project was created as part of my practical Power BI and Data Analytics lea
 
 ## Dashboard Preview
 
-![Maven Toys Power BI Dashboard](images/dashboard.png)
+![Maven Toys Power BI Dashboard](images/images_dashboard.png)
 
 ## Key Features
 
@@ -41,7 +41,7 @@ fact table.
 
 ## Data Model
 
-![Power BI Data Model](images/data-model.png)
+![Power BI Data Model](images/images_data-model.png)
 
 ## Data Transformation
 
